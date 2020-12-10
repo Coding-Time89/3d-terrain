@@ -1,7 +1,10 @@
 # 3d-terrain
 
-This Is An Awesome 3-D Terrain Made From JavaScript In P5JS ,
-Its The Visualization Of A Terrain Coded From Java .
+**This Is An Awesome 3-D Terrain Made From JavaScript In P5JS ,
 
-Its Fully Made In Java And SomeWhat HTML And CSS !
+**Its The Visualization Of A Terrain Coded From Java .
+
+**Its Fully Made In Java And SomeWhat HTML And CSS !
+
+*Fully Designed And Coded By - " THE CODING TRAIN "
 
